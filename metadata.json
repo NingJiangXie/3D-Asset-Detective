@@ -1,0 +1,5 @@
+{
+  "name": "3D 模型侦探",
+  "description": "一个智能搜索引擎，利用 Google Gemini Search Grounding 从网络上查找、分析和总结 3D 模型。",
+  "requestFramePermissions": []
+}
